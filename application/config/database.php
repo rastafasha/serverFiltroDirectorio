@@ -76,13 +76,12 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
-	/*'username' => 'adminAexAng',
-	'password' => '@Hg~PIXSt2uC',
-	'database' => 'AextumAng',*/
+	//'username' => 'admRedclh',
+	//'password' => 'EO-=Z([B_ab!',
 	// localhost
 	'username' => 'root',
 	'password' => 'root',
-	'database' => 'svcbmfne_SVCBMF',
+	'database' => 'api_rest_redclh',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
